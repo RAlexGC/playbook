@@ -4,7 +4,8 @@
   "description": "Primer ejercicio - Semana 3 - LaunchX",
   "main": "index.js",
   "scripts": {
-    "test": "node ./node_modules/.bin/jest"
+    "test": "node ./node_modules/.bin/jest",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
