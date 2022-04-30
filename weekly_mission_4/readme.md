@@ -1,1 +1,11 @@
-# Weekly Mission 4
+# Semana 4
+
+Proyectos desarrollados en la semana 4:
+
+| Proyecto | Práctica | Link al repo |
+| ------------- |:-------------:| -----:|
+|`fizzbuzz-VP`|1,2, 3|<a href="https://github.com/RAlexGC/fizzbuzz-VP" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%94%97link-fizzbuzz-VP-blue?"></a>|
+|`fizzbuzz`|4|<a href="https://github.com/RAlexGC/fizzbuzz" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%94%97link-spiderverse-blue?"></a>|
+|`code_challenge`|5|<a href="https://github.com/RAlexGC/code_challenge" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%94%97link-twitter-blue?"></a>|
+|`TBD`|6|<a href="https://github.com/RAlexGC/express_basic" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%94%97link-express_basic-blue?"></a>|
+|`TBD`|7|<a href="https://github.com/RAlexGC/express_api" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%94%97link-express_api-blue?"></a>|
